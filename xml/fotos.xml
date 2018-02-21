@@ -1,0 +1,43 @@
+ <?xml version="1.0" encoding="utf-8"?>
+<galeria>
+	<fotos>
+		<fotoGrande>1.jpg</fotoGrande>
+		<thumb>t1.jpg</thumb>
+	</fotos>	
+	<fotos>
+		<fotoGrande>2.jpg</fotoGrande>
+		<thumb>t2.jpg</thumb>
+	</fotos>	
+	<fotos>
+		<fotoGrande>3.jpg</fotoGrande>
+		<thumb>t3.jpg</thumb>
+	</fotos>	
+	<fotos>
+		<fotoGrande>4.jpg</fotoGrande>
+		<thumb>t4.jpg</thumb>
+	</fotos>	
+	<fotos>
+		<fotoGrande>5.jpg</fotoGrande>
+		<thumb>t5.jpg</thumb>
+	</fotos>	
+	<fotos>
+		<fotoGrande>6.jpg</fotoGrande>
+		<thumb>t6.jpg</thumb>
+	</fotos>	
+	<fotos>
+		<fotoGrande>7.jpg</fotoGrande>
+		<thumb>t7.jpg</thumb>
+	</fotos>	
+	<fotos>
+		<fotoGrande>8.jpg</fotoGrande>
+		<thumb>t8.jpg</thumb>
+	</fotos>	
+	<fotos>
+		<fotoGrande>9.jpg</fotoGrande>
+		<thumb>t9.jpg</thumb>
+	</fotos>	
+	<fotos>
+		<fotoGrande>10.jpg</fotoGrande>
+		<thumb>t10.jpg</thumb>
+	</fotos>
+</galeria>

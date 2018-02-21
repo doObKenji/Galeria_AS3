@@ -1,1 +1,1 @@
-Galeria_AS3
+Galeria
